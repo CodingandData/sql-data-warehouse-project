@@ -25,6 +25,16 @@ Develop a modern datawarehouse with SQL Server to consolidate sales data, enabli
 
 #### Obejective
 Develop SQL-based analytics to deliver detailed insights into:
--**Customer Behaviour**
+- **Customer Behaviour**
+- **Product Performance**
+- **Sales Trends**
 
+These insights provide stakeholders with key business metrics for strategic decision-making.
 
+---
+
+## License 🛡️
+This project is under the MIT License so feel free to use, modify, and share with proper attribution.
+
+## About Me 🧑‍🦰
+Hi! I'm Kevin Botelho, an aspiring data engineer who enjoys coding!
