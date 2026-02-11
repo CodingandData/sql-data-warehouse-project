@@ -42,3 +42,17 @@ The Gold Layer is the business level data representation, structured to support 
 | product_line | NVARCHAR(50) | The specific product line or series to which the product belongs (e.g. 'Road', 'Mountain').
 | start_date | DATE | The date when the product became available for sale or use.
 
+---
+
+### 3.gold.fact_sales
+- **Purpose:** Stores transactional sales data for analytical purposes.
+- **Columns:**
+
+| Column Name | Data Type | Description
+|---|---|---
+| order_number | NVARCHAR(50) | A unique alphanumeric identifier for each sales order (e.g. 'SO54496').
+| product_key | INT | Surrogate key, linking the order to the product dimension table.
+| customer_key | INT | Surrogate key, linking the order to the customer dimension table.
+| order_date | DATE | The date when the order was placed.
+| shipping_date | DATE | The date when the order was shipped to the customer.
+
