@@ -51,6 +51,10 @@ These insights provide stakeholders with key business metrics for strategic deci
 
 ---
 
+# Data Architecture
+
+The data architecture for this project follows Medallion architecture **Bronze**, **Silver**, and **Gold** layers:
+
 ## License 🛡️
 This project is under the MIT License so feel free to use, modify, and share with proper attribution.
 
