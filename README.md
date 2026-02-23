@@ -60,8 +60,6 @@ These insights provide stakeholders with key business metrics for strategic deci
 
 ---
 
-# Repository Structure 📁
-
 ## License 🛡️
 This project is under the MIT License so feel free to use, modify, and share with proper attribution.
 
