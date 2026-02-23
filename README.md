@@ -5,7 +5,7 @@ This project demonstrates a warehousing and analytics solution. It's designed as
 
 ---
 
-## Project Overview
+## Project Overview 📖
 
 This project involves:
   1. **Data Architecture:** Designing a modern Data Warehouse using Medallion architecture **Bronze**, **Silver**, and **Gold** layers.
@@ -23,7 +23,7 @@ This project involves:
 
 ---
 
-# Project Requirements
+# Project Requirements 🚀
 
 ## Building the Datawarehouse
 
@@ -51,7 +51,7 @@ These insights provide stakeholders with key business metrics for strategic deci
 
 ---
 
-# Data Architecture
+# Data Architecture 🏗️
 <img width="811" height="631" alt="architecture" src="https://github.com/user-attachments/assets/a654ad4c-621a-4efc-8081-fc72f5530600" />
 
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files into SQL Server database.
@@ -59,6 +59,8 @@ These insights provide stakeholders with key business metrics for strategic deci
 3. **Gold Layer:** Houses business-ready data modelled into a star schema required for reporting and analytics.
 
 ---
+
+# Repository Structure 📁
 
 ## License 🛡️
 This project is under the MIT License so feel free to use, modify, and share with proper attribution.
