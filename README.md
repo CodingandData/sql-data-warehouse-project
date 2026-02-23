@@ -54,7 +54,6 @@ These insights provide stakeholders with key business metrics for strategic deci
 # Data Architecture
 <img width="811" height="631" alt="architecture" src="https://github.com/user-attachments/assets/a654ad4c-621a-4efc-8081-fc72f5530600" />
 
-
 ## License 🛡️
 This project is under the MIT License so feel free to use, modify, and share with proper attribution.
 
