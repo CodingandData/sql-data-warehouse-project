@@ -53,6 +53,7 @@ These insights provide stakeholders with key business metrics for strategic deci
 
 # Data Architecture
 <img width="811" height="631" alt="architecture" src="https://github.com/user-attachments/assets/a654ad4c-621a-4efc-8081-fc72f5530600" />
+
 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV files into SQL Server database.
 2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer:** Houses business-ready data modelled into a star schema required for reporting and analytics.
